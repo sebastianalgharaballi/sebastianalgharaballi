@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sebastianalgharaballi
-- 👀 I’m interested in artifical intelligence and machine learning.
-- 📫 How to reach me: salghara@ucsd.edu
+Hello! My name is Sebastian Algharaballi-Yanow, and welcome to my GitHub repository. Here you will find my advanced projects pertaining to machine learning and data analysis. 
 
 <!---
 sebastianalgharaballi/sebastianalgharaballi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
